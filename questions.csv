@@ -1,0 +1,8 @@
+"p5.js 中的 ""setup"" 函數何時會執行？","只執行一次，在程式開始時","在 ""draw"" 之後執行","每一幀都執行","當滑鼠被點擊時","A"
+"哪一個函數可以用來畫一個圓形？","rect()","triangle()","line()","ellipse()","D"
+"如何設定畫布的背景顏色為黑色？","background(255);","background(0);","fill(0);","color(0, 0, 0);","B"
+"""mouseX"" 和 ""mouseY"" 變數儲存了什麼？","畫布的中心點","滑鼠的點擊次數","滑鼠目前在畫布上的座標","鍵盤的按鍵代碼","C"
+"loadTable() 函數應該在哪一個 p5.js 函數中被呼叫？","setup()","draw()","preload()","mousePressed()","C"
+"在 p5.js 中，哪一個函數會不斷重複執行？","loop()","run()","draw()","repeat()","C"
+"如何改變矩形的邊框顏色？","stroke()","noStroke()","fill()","borderColor()","A"
+"p5.js 是基於哪一種程式語言的？","Python","C++","Java","JavaScript","D"
